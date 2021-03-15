@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoyJyou
-- 👀 I’m interested in Go, Rust and usting them to wirte interesting code
+- 👀 I’m interested in Go, Rust and using them to wirte interesting code
 - 🌱 I’m currently learning Distributed System
 - 💞️ I’m looking to collaborate on some well-known open source projects
 - 📫 How to reach me 
