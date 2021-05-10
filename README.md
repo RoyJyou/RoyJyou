@@ -2,7 +2,7 @@
 - 👀 I’m interested in Go, Rust and using them to wirte interesting code
 - 🌱 I’m currently learning Distributed System
 - 💞️ I’m looking to collaborate on some well-known open source projects
-- 📫 How to reach me 
+- 📫 How to reach me：royraoiscoder@gmail.com
 
 <!---
 RoyJyou/RoyJyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
